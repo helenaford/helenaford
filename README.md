@@ -1,4 +1,4 @@
-### Hi there 👋
+### Visit my developer blog [ford.dev](https://ford.dev)
 
 <!--
 **helenaford/helenaford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
